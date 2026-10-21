@@ -14,7 +14,7 @@
 ## Quick Start
 
 ### 1. Set Your Gemini API Key
-This is an open source project, add your API key
+This is an open source project, add your API key.
 Edit the `.env` file in this directory:
 ```env
 SECRET_KEY=roast-and-co-secret-key-12345
